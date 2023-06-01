@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Roper\source\repos\PublicRepos\Server Exercise\Server Exercise\main.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server Exercise.vcxproj -> C:\Users\Roper\source\repos\PublicRepos\Server Exercise\Debug\Server Exercise.exe
