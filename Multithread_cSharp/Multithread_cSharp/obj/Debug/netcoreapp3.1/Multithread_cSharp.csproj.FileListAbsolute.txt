@@ -1,0 +1,13 @@
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\bin\Debug\netcoreapp3.1\Multithread_cSharp.exe
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\bin\Debug\netcoreapp3.1\Multithread_cSharp.deps.json
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\bin\Debug\netcoreapp3.1\Multithread_cSharp.runtimeconfig.json
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\bin\Debug\netcoreapp3.1\Multithread_cSharp.runtimeconfig.dev.json
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\bin\Debug\netcoreapp3.1\Multithread_cSharp.dll
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\bin\Debug\netcoreapp3.1\Multithread_cSharp.pdb
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\obj\Debug\netcoreapp3.1\Multithread_cSharp.csprojAssemblyReference.cache
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\obj\Debug\netcoreapp3.1\Multithread_cSharp.AssemblyInfoInputs.cache
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\obj\Debug\netcoreapp3.1\Multithread_cSharp.AssemblyInfo.cs
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\obj\Debug\netcoreapp3.1\Multithread_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\obj\Debug\netcoreapp3.1\Multithread_cSharp.dll
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\obj\Debug\netcoreapp3.1\Multithread_cSharp.pdb
+C:\Users\Roper\source\repos\PublicRepos\Multithread_cSharp\Multithread_cSharp\obj\Debug\netcoreapp3.1\Multithread_cSharp.genruntimeconfig.cache

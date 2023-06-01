@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gnu+C3Ic/WFP/PXdUynzghlhT6DXD82i9NniJTE/HfLDBc3NpbobLJO6X/7sCSnUP19bQEIvNuxyZjpIeBkUbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roper\\source\\repos\\PublicRepos\\Multithread_cSharp\\Multithread_cSharp\\Multithread_cSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

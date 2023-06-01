@@ -1,0 +1,5 @@
+﻿  MultiThreading.cpp
+  SodaLine.cpp
+C:\Users\Roper\source\repos\PublicRepos\Multithreading\MultiThreading\SodaLine.cpp(44,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  MultiThreading.vcxproj -> C:\Users\Roper\source\repos\PublicRepos\Multithreading\x64\Debug\MultiThreading.exe

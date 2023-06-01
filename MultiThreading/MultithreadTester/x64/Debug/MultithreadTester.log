@@ -1,0 +1,4 @@
+﻿  MultithreadTester.cpp
+C:\Users\Roper\source\repos\PublicRepos\Multithreading\MultiThreading\SodaLine.cpp(32,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\Roper\source\repos\PublicRepos\Multithreading\x64\Debug\MultithreadTester.lib and object C:\Users\Roper\source\repos\PublicRepos\Multithreading\x64\Debug\MultithreadTester.exp
+  MultithreadTester.vcxproj -> C:\Users\Roper\source\repos\PublicRepos\Multithreading\x64\Debug\MultithreadTester.dll
